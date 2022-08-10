@@ -1,0 +1,33 @@
+.ordersuccess{
+    display: flex;
+}
+.content-order {
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    line-height: 50px;
+    margin-top: 130px;
+}
+.athanks {
+    text-decoration: none;
+    color: blue;
+}
+.thankyou{
+    color: red;
+}
+.statuspage table {
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 10px 10px 0px rgba(245, 245, 220, 0.552);
+}
+.statuspage thead {
+    background-color: aliceblue;
+    height: 60px;
+}
+.statuspage tbody {
+    height: 50px;
+}
+.foottable>tr>th {
+    border: 1px solid rgba(128, 128, 128, 0.089) !important;
+    color: #F96167;
+}
